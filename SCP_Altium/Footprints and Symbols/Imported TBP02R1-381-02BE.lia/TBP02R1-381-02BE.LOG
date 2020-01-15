@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : TBP02R1-381-02BE.LibPkg
+
+Section : D:\Konstantin\Documents\Molecular Mechatronics Laboratory\SCP_Controller\SCP_Controller\SCP_Altium\Footprints and Symbols\TBP02R1-381-02BE.lia
+    Section : PCB Library - TBP02R1-381-02BE.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TBP02R1-381-02BE On Line 134
+            Warning - 1 : Skipping Token attachedSymbol On Line 174
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TBP02R1-381-02BE.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 126
+        EndSection
+
+        Section : Generating SCH Library - TBP02R1-381-02BE.SchLib
+        EndSection
+    EndSection
+EndSection
