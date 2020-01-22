@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SCP_Controller.PrjPcb]
+   Generated File[SCP_Controller.TXT]
+   Generated File[SCP_Controller-RectHoles.TXT]
+   Generated File[SCP_Controller.LDP]
+   Generated File[SCP_Controller.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:57:34 On 22-Jan-20

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Konstantin\Documents\Molecular Mechatronics Laboratory\SCP_Controller\SCP_Controller\SCP_Altium\SCP_Controller.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=scp_controller.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=scp_controller-rectholes.txt|DrillLayers=gtl,gbl

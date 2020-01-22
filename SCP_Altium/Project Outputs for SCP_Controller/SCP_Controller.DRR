@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SCP_Controller.PcbDoc   22-Jan-20  10:57:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SCP_Controller.TXT
+ASCII RectHoles File : SCP_Controller-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             20        PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             6         PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Rectangle         3         PTH        0.00inch (0.00mm)
+T5      41mil (1.04mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)                                             Round             32        PTH        0.00inch (0.00mm)
+T7      55mil (1.4mm)                                             Round             6         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              79
+
+Total Processing Time (hh:mm:ss) : 00:00:00
