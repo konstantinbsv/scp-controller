@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=SCP_Controller Member=R21
+Removed Member From Class: ClassName=SCP_Controller Member=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R20
