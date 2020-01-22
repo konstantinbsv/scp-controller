@@ -2,14 +2,79 @@
 FileName = SCP_Controller.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
+Generating : Bottom Paste
+      File : SCP_Controller.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SCP_Controller.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Mechanical1
       File : SCP_Controller.GM1
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Mechanical1
 
 
 Used DCodes :
     D82
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : SCP_Controller.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D80
 *************************************************************
 
 *************************************************************
@@ -44,41 +109,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : SCP_Controller.GPB
+Generating : Bottom Overlay
+      File : SCP_Controller.GBO
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D80
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : SCP_Controller.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
     D11
-    D12
-    D13
-    D14
     D15
 *************************************************************
 
@@ -124,57 +162,57 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : SCP_Controller.GBS
+Generating : Top Pad Master
+      File : SCP_Controller.GPT
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D81
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : SCP_Controller.GBO
+Generating : Mechanical 13
+      File : SCP_Controller.GM13
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
     D11
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : SCP_Controller.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D80
+    D13
+    D82
+    D83
+    D84
 *************************************************************
 
 *************************************************************
@@ -225,57 +263,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : SCP_Controller.GM13
+Generating : Top Overlay
+      File : SCP_Controller.GTO
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
     D11
+    D12
     D13
-    D82
-    D83
-    D84
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : SCP_Controller.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
+    D14
+    D15
 *************************************************************
 
 *************************************************************

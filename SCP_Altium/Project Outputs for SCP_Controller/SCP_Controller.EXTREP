@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: SCP_Controller.GBR   22-Jan-20  10:53:47
+Gerber File Extension Report For: SCP_Controller.GBR   22-Jan-20  11:56:33
 ------------------------------------------------------------------------------------------
 
 
@@ -14,7 +14,7 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM1                Mechanical 1                            
+.GM1                Mechanical1                             
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
 .GPT                Top Pad Master                          
