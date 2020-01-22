@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMRSDRCM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SCP_Controller\Design Rule Check - SCP_Controller.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
