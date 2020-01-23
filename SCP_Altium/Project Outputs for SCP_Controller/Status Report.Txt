@@ -1,26 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [SCP_Controller.PrjPcb]
-   Generated File[SCP_Controller.GTO]
-   Generated File[SCP_Controller.GTP]
-   Generated File[SCP_Controller.GTS]
-   Generated File[SCP_Controller.GTL]
-   Generated File[SCP_Controller.GBL]
-   Generated File[SCP_Controller.GBS]
-   Generated File[SCP_Controller.GBP]
-   Generated File[SCP_Controller.GBO]
-   Generated File[SCP_Controller.GM1]
-   Generated File[SCP_Controller.GM13]
-   Generated File[SCP_Controller.GM15]
-   Generated File[SCP_Controller.GKO]
-   Generated File[SCP_Controller.GPT]
-   Generated File[SCP_Controller.GPB]
-   Generated File[SCP_Controller.RUL]
-   Generated File[SCP_Controller.EXTREP]
-   Generated File[SCP_Controller.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SCP_Controller.PrjPcb]
+   Generated File[SCP_Controller.TXT]
+   Generated File[SCP_Controller-RectHoles.TXT]
+   Generated File[SCP_Controller.LDP]
+   Generated File[SCP_Controller.DRR]
 
 
-Files Generated   : 17
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 12:47:59 On 22-Jan-20
+Finished Output Generation At 12:12:06 On 23-Jan-20

@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XMRSDRCM
 
 [Document3]
-DocumentPath=Project Outputs for SCP_Controller\CAM Files\NC-drills.Cam
+DocumentPath=Project Outputs for SCP_Controller\CAM Files\board-layers.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=Project Outputs for SCP_Controller\CAM Files\board-layers.Cam
+DocumentPath=Project Outputs for SCP_Controller\CAM Files\NC-drills.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
